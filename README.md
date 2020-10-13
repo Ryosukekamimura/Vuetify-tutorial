@@ -1,5 +1,13 @@
 # ceo
 
+# completed Image
+
+<img src="https://user-images.githubusercontent.com/52638834/95812908-82a07d00-0d51-11eb-915f-d406078e27dc.png" width=200px/>
+
+
+
+
+
 ## Project setup
 ```
 npm install
